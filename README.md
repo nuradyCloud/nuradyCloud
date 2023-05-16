@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nuradyCloud
-- 👀 I’m interested in nodeJs, Java
+- 👀 I’m interested in Java, Golang, NodeJS, and PHP
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on project LinkAja
 - 📫 How to reach me https://www.linkedin.com/in/nuradypamungkas/
