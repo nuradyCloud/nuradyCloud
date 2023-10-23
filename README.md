@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nuradyCloud
 - 👀 I’m interested in Java, Golang, NodeJS, and PHP
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on project LinkAja
+- 🌱 I’m currently learning about devops in GCP
+- 💞️ I’m looking to collaborate on project HiBank
 - 📫 How to reach me https://www.linkedin.com/in/nuradypamungkas/
 
 <!---
